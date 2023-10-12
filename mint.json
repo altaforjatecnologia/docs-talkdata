@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "http://talkdata.test/assets/images/talkdata-logo-dark.png",
-    "light": "http://talkdata.test/assets/images/talkdata-logo.png"
+    "dark": "https://talkdata.ai/assets/images/talkdata-logo-dark.png",
+    "light": "https://talkdata.ai/assets/images/talkdata-logo.png"
   },
   "favicon": "/favicon.png",
   "colors": {
