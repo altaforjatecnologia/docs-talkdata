@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "TalkData",
   "logo": {
     "dark": "https://talkdata.ai/assets/images/talkdata-logo-dark.png",
     "light": "https://talkdata.ai/assets/images/talkdata-logo.png"
@@ -20,20 +20,20 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "mailto:contato@talkdata.ai"
     }
   ],
   "topbarCtaButton": {
-    "name": "Crie seu Chatbot com IA",
+    "name": "Crie seu Chatbot de IA",
     "url": "https://talkdata.ai"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+//   "tabs": [
+//     {
+//       "name": "API Reference",
+//       "url": "api-reference"
+//     }
+//   ],
   "anchors": [
     {
       "name": "Documentation",
