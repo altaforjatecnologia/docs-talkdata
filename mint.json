@@ -36,34 +36,27 @@
 //   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "/introduction"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Comunidade",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
       "group": "Primeiros passos",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Chatbot",
       "pages": [
-        "essentials/markdown",
+        "chatbot/build-chatbot",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
