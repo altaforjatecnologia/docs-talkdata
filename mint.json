@@ -39,7 +39,8 @@
     {
       "group": "Primeiros passos",
       "pages": [
-        "introduction"
+        "introduction",
+        "new-bot"
       ]
     },
     {
