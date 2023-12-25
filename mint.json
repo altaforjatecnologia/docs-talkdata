@@ -44,6 +44,12 @@
       ]
     },
     {
+      "group": "Integrações",
+      "pages": [
+        "integrations/whatsapp-api"
+      ]
+    },
+    {
       "group": "Chatbot",
       "pages": [
         "chatbot/build-chatbot",
